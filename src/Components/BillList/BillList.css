@@ -1,0 +1,11 @@
+.bill-list-container {
+    box-sizing: border-box;
+    width: 300px;
+}
+.bill-list-row {
+    display: block;
+}
+.bill-list-row-content {
+    margin-left: 10px;
+    display: inline-block;
+}
